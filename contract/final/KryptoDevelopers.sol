@@ -1421,10 +1421,10 @@ contract KryptoDevelopers is ERC721Enumerable, Ownable {
     uint256 public developerPrice;
 
     // KryptoDevelopers Community
-    address t1 = 0x3106B9112E18bcB0eBacaE0F9f69aa3A2F1fc9Bd;
-    address t2 = 0x5AAee7d64278929091D8e3beE3371B7A6f6bAaf3;
-    address t3 = 0x6CA165ac7f4cb3825b52602E19CF463D98b24B8C;
-    address t4 = 0x470f4e0314E6f3D0ff52de741fFa5d4Ba93762Af;
+    address t1 = "Endereço wallets";
+    address t2 = "Endereço wallets";
+    address t3 = "Endereço wallets";
+    address t4 = "Endereço wallets";
 
     constructor() ERC721("KryptoDevelopers", "KDEV") {
         developerPrice = 75000000000000000000;
